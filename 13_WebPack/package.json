@@ -1,6 +1,10 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack",
+    "test": "TEST"
+  },
   "dependencies": {
     "normalize.css": "^8.0.1"
   },
