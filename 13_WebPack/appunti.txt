@@ -1,0 +1,4 @@
+Comandi eseguiti:
+npm run dev 
+
+Il file package.json eseguirà quello che c'è in scripts > dev > "webpack", cioè eseguirà il contenuto del file webpack.config.js e creerà il file dist/main.js 
